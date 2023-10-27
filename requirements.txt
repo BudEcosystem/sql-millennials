@@ -1,0 +1,9 @@
+transformers
+torch
+fire
+datasets
+deepspeed
+accelerate
+peft
+gradio
+tiktoken
